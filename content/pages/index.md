@@ -11,7 +11,7 @@ sections:
         self:
           textAlign: left
           fontWeight: 400
-    subtitle: Grow your business faster
+    subtitle: ''
     text: >
       We provide comprehensive trade solutions and expert advisory services to
       businesses looking to expand globally. Our team of experienced
