@@ -58,7 +58,19 @@
             "elementId": ""
         }
     ],
-    "secondaryLinks": [],
+    "secondaryLinks": [
+        {
+            "type": "Button",
+            "label": "Get started",
+            "altText": "",
+            "url": "/#contact",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        }
+    ],
     "variant": "logo-centered-primary-nav-left",
     "colors": "bg-light-fg-dark",
     "type": "Header"
