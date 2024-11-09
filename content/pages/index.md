@@ -68,8 +68,7 @@ sections:
           specific needs. Our expert team is dedicated to helping you overcome
           challenges, optimize operations, and achieve growth. Whether you’re a
           startup or an established business, our strategic insights will drive
-          your success. Partner with us to unlock your business's full
-          potential.
+          your success.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
