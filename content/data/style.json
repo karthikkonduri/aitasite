@@ -67,7 +67,7 @@
     "buttonSecondary": {
         "weight": "bold",
         "case": "uppercase",
-        "letterSpacing": "normal",
+        "letterSpacing": "wide",
         "borderRadius": "DEFAULT",
         "shadow": "none",
         "horizontalPadding": 30,
