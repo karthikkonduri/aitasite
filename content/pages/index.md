@@ -11,7 +11,7 @@ sections:
         self:
           textAlign: left
           fontWeight: 400
-    subtitle: Expand your business with AITA
+    subtitle: Grow your business faster
     text: >
       We provide comprehensive trade solutions and expert advisory services to
       businesses looking to expand globally. Our team of experienced
