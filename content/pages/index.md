@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Partner for your Business
+      text: Grow your Business faster
       color: text-dark
       type: TitleBlock
       styles:
