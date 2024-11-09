@@ -118,10 +118,11 @@ sections:
         type: FeaturedItem
       - title: Mergers & Acquisitions
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We provide essential services for mergers and acquisitions, including
+          strategic advisory, due diligence, valuation analysis, and negotiation
+          support. We identify targets, assess risks, and develop strategies
+          aligned with your goals to ensure your success.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
