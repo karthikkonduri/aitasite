@@ -318,6 +318,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    elementId: team
   - title:
       text: Contact Us
       color: text-dark
