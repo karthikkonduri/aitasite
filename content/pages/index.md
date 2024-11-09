@@ -57,6 +57,8 @@ sections:
           - pr-16
       subtitle:
         textAlign: center
+      text:
+        textAlign: justify
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
