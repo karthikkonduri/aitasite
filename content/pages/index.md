@@ -271,13 +271,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             textAlign: center
-    actions:
-      - type: Button
-        label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
