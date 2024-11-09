@@ -208,7 +208,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Senior Software Engineer
+        title: Senior Software
         subtitle: Engineering
         text: ''
         actions: []
