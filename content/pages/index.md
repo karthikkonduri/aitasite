@@ -218,7 +218,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
-    variant: toggle-list
+    variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
