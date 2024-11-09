@@ -33,7 +33,7 @@
                     "type": "Link",
                     "label": "Dropdown item",
                     "altText": "",
-                    "url": "/",
+                    "url": "",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",
