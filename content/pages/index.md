@@ -63,10 +63,13 @@ sections:
       - type: FeaturedItem
         title: Business Advisory & Consulting
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We provide tailored business advisory services that address your
+          specific needs. Our expert team is dedicated to helping you overcome
+          challenges, optimize operations, and achieve growth. Whether you’re a
+          startup or an established business, our strategic insights will drive
+          your success. Partner with us to unlock your business's full
+          potential.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
