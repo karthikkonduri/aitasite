@@ -254,7 +254,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Cloud
-        subtitle: '& Pharmacy'
+        subtitle: '& Information Technology'
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
