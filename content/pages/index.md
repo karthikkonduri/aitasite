@@ -191,7 +191,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: Open Source Engineer
+        title: Geology
         subtitle: Marketing
         text: ''
         actions: []
