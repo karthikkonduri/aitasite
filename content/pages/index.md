@@ -7,6 +7,9 @@ sections:
       text: Partner for your Business
       color: text-dark
       type: TitleBlock
+      styles:
+        self:
+          textAlign: center
     subtitle: Expand your business with AITA
     text: >
       A Netlify Create website is a git repo that you own. Every code commit is
