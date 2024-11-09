@@ -239,7 +239,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Electronics
-        subtitle: '& Telecommunications'
+        subtitle: '& Telecommunications, IoT'
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
