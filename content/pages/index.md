@@ -209,7 +209,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Health
-        subtitle: Engineering
+        subtitle: '& Pharmacy'
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
