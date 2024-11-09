@@ -306,7 +306,7 @@ sections:
         icon: arrowRight
         iconPosition: right
         style: primary
-    variant: small-list
+    variant: three-col-grid
     colors: bg-light-fg-dark
     styles:
       self:
