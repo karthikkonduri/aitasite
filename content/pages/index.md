@@ -290,6 +290,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+    elementId: industry
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
