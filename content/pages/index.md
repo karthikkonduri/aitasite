@@ -224,7 +224,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Minerals
-        subtitle: '& Pharmacy'
+        subtitle: '& Metallurgy'
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
