@@ -656,7 +656,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Industry Expertise
       color: text-primary
       styles:
         self:
