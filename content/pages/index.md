@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
       styles:
         self:
-          textAlign: center
+          textAlign: left
     subtitle: Expand your business with AITA
     text: >
       We provide comprehensive trade solutions and expert advisory services to
