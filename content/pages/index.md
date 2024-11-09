@@ -23,7 +23,7 @@ sections:
     actions:
       - label: Contact Us
         altText: ''
-        url: /
+        url: /#contact
         showIcon: true
         icon: arrowRight
         iconPosition: right
