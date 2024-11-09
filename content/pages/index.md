@@ -144,7 +144,7 @@ sections:
       - label: CONTACT US
         altText: ''
         url: /#contact
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
