@@ -55,7 +55,7 @@ sections:
           - pb-16
           - pr-16
       subtitle:
-        textAlign: center
+        textAlign: left
       text:
         textAlign: left
   - type: FeaturedItemsSection
