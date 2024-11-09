@@ -48,7 +48,7 @@
         },
         {
             "type": "Link",
-            "label": "See Tutorials",
+            "label": "Team",
             "altText": "",
             "url": "/#team",
             "showIcon": false,
