@@ -58,10 +58,6 @@ sections:
         textAlign: left
       text:
         textAlign: left
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
   - type: FeaturedItemsSection
     title:
       text: Key Benefits
