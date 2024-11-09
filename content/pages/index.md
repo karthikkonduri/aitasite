@@ -12,9 +12,14 @@ sections:
           textAlign: center
     subtitle: Expand your business with AITA
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      Altruist International Trade and Advisory Group specializes in providing
+      comprehensive trade solutions and expert advisory services to businesses
+      looking to expand globally. Our team of experienced professionals offers
+      market entry strategies, regulatory compliance guidance, and supply chain
+      optimization to ensure your success in Indian and International markets.
+      We are dedicated to fostering sustainable trade practices and building
+      long-lasting partnerships. Trust Altruist to navigate the complexities of
+      global trade and help your business thrive.
     actions:
       - label: Get started
         altText: ''
