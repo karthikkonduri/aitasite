@@ -12,7 +12,19 @@
         },
         "type": "ImageBlock"
     },
-    "primaryLinks": [],
+    "primaryLinks": [
+        {
+            "type": "Link",
+            "label": "See Tutorials",
+            "altText": "",
+            "url": "/",
+            "showIcon": false,
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "primary",
+            "elementId": ""
+        }
+    ],
     "secondaryLinks": [],
     "variant": "logo-centered-primary-nav-centered",
     "colors": "bg-light-fg-dark",
