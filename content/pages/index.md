@@ -192,7 +192,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Geology
-        subtitle: Marketing
+        subtitle: '& Geo-Physics'
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
