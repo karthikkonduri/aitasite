@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: left
-          fontWeight: 700
+          fontWeight: 400
     subtitle: Expand your business with AITA
     text: >
       We provide comprehensive trade solutions and expert advisory services to
