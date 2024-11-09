@@ -68,7 +68,7 @@
         "weight": "bold",
         "case": "uppercase",
         "letterSpacing": "wide",
-        "borderRadius": "DEFAULT",
+        "borderRadius": "lg",
         "shadow": "none",
         "horizontalPadding": 30,
         "verticalPadding": 12,
