@@ -23,17 +23,7 @@
             "type": "Link"
         }
     ],
-    "secondaryLinks": [
-        {
-            "label": "Contact Us",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Button",
-            "showIcon": true
-        }
-    ],
+    "secondaryLinks": [],
     "variant": "logo-centered-primary-nav-left",
     "colors": "bg-light-fg-dark",
     "type": "Header"
