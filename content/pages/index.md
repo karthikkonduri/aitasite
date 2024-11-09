@@ -222,6 +222,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+            textAlign: center
       - type: FeaturedItem
         title: Minerals
         subtitle: '& Metallurgy'
