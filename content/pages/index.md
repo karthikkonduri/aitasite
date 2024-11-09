@@ -239,7 +239,7 @@ sections:
             flexDirection: row
       - type: FeaturedItem
         title: Electronics
-        subtitle: '& Pharmacy'
+        subtitle: '& Telecommunications'
         text: ''
         actions: []
         colors: bg-neutral-fg-dark
