@@ -7,7 +7,7 @@
     "socialLinks": [
         {
             "altText": "Email link",
-            "url": "/",
+            "url": "mailto: admin@aitagroup.net",
             "icon": "mail",
             "type": "Social"
         }
