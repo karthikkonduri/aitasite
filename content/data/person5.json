@@ -1,7 +1,7 @@
 {
     "type": "Person",
-    "name": "Drake Garza",
-    "role": "Job title",
+    "name": "Ramya K",
+    "role": "Partner",
     "image": {
         "url": "/images/avatar5.svg",
         "altText": "Drake Garza",
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "Ramya is an expert in the pharmaceutical field, possessing significant experience and a thorough understanding of industry trends.\n"
 }
