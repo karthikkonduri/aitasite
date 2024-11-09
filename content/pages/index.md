@@ -21,7 +21,7 @@ sections:
       practices and building long-lasting partnerships. Trust Altruist to
       navigate the complexities of global trade and help your business thrive.
     actions:
-      - label: Get started
+      - label: Contact Us
         altText: ''
         url: /
         showIcon: false
