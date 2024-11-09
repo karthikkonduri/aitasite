@@ -55,7 +55,7 @@
         "type": "ThemeStyleHeading"
     },
     "buttonPrimary": {
-        "weight": "normal",
+        "weight": "bold",
         "case": "uppercase",
         "letterSpacing": "normal",
         "borderRadius": "DEFAULT",
